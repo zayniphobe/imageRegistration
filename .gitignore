@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# But keep these specific files
+!recoverAffine.py
+!lena_color_512.tif
+!README.md
+!LICENSE
+
+# Keep .gitignore itself
+!.gitignore
