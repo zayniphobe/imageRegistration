@@ -2,9 +2,9 @@
 recovering the best affine transformation from image correspondances
 
 Covers:
-  A) Reading correspondences + solving for affine params via least squares
-  B) Warping source image using reverse mapping + bilinear interpolation (from scratch)
-  C) Side-by-side visual comparison
+  A) Reading correspondences + solving for affine params via least squares<br>
+  B) Warping source image using reverse mapping + bilinear interpolation (from scratch)<br>
+  C) Side-by-side visual comparison<br>
 
 Setup:
 source image  : lena_color_512.tif  (the original)
